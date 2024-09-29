@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-This is a personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. The website showcases personal information such as education, skills, projects, and services. The design is fully responsive and works across various screen sizes.
+This is a personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. The website showcases personal information such as education, skills, projects, and services.
 
 ## Features
 - **Smooth Scrolling**: For a seamless browsing experience.
